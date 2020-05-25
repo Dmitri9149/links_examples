@@ -28,6 +28,6 @@ mutual {
   }
 }
 
-isEven(Succ(Succ(Succ(Z))))
+isEven(Succ(Succ(Succ(Z))));
 
-fib(100)
+fib(100);
